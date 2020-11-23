@@ -1,4 +1,4 @@
-# Meteor Client
+# VibeCat+ all the src code is on bottom
 ![Discord](https://img.shields.io/discord/689197705683140636)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MeteorDevelopment/meteor-client)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/MeteorDevelopment/meteor-client)
